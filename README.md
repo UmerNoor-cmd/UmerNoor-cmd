@@ -22,5 +22,5 @@ MySQL
 PostgreSQL
 SQLITE3
 Connect with Me
-LinkedIn: Aawaiz Ali (https://linkedin.com/in/aawaiz)
-Email: aawaizali8@gmail.com
+LinkedIn: Aawaiz Ali (https://www.linkedin.com/in/umer-noor/)
+Email: umernoor6660@gmail.com
