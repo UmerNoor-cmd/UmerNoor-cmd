@@ -13,7 +13,8 @@ VisualBasic
 Frameworks and Libraries
 flask
 django
-pandas, sympy, matplotlib, seaborn, pillow, tkinter
+pandas, sympy, matplotlib, seaborn, pillow, Smtplib, Schedule
+Easygui, tkinter
 scikit-learn
 Tools
 Git
