@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Umer Noor and I'm a passionate developer from Pakistan</h2>
+<h2 align="center">My name is Umer Noor 🧑🏻‍🚀 <br> I'm a passionate developer from Pakistan</h2>
 
 ###
 
