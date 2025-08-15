@@ -1,7 +1,8 @@
-<h2 align="center">I'm Umer Noor!🧑🏻‍🚀<br> A passionate developer from Pakistan</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+SOFTWARE+ENGINEER;%3E%3E%3E+BREAKING+PROBLEMS;%3E%3E%3E+BEFORE+THEY+BREAK+ME;%3E%3E%3E+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" alt="Retro Space Typing Effect" />
+</h2>
 
-###
-
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=UmerNoor-cmd&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
