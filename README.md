@@ -71,18 +71,35 @@
 
 ###
 
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerNoor-cmd&theme=redical&area=true&hide_border=true&hide_title=false&radius=10000&bg_color=14272c&color=FCFCFC&line=00D4FF&point=6262BD&area_color=00FF6A" height="1000" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=discord&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+
+
+<table align="center" border="1" cellspacing="0" cellpadding="0" bgcolor="#0c1014" bordercolor="#0c1014">
+  <tr>
+    <td align="center" valign="middle" width="220" bgcolor="#0c1014" bordercolor="#0c1014">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&cover_image=true&theme=apple&show_offline=false&background_color=527698&interchange=true&mode=dark" alt="Spotify Now Playing" width="200" />
+      </a>
+    </td>
+    <td align="center" valign="middle" bgcolor="#0c1014" bordercolor="#0c1014">
+      <img src="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=discord&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ###
 ###
+
 
 
 
