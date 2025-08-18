@@ -31,7 +31,7 @@
 
 <picture align="right">
   <!-- Light mode -->
-  <source srcset="https://i.postimg.cc/9XSLYB1D/image.png" media="(prefers-color-scheme: light)" />
+  <source srcset="https://i.postimg.cc/Wbsb1MLH/image-2025-08-19-023628597-1.png" media="(prefers-color-scheme: light)" />
   <!-- Dark mode -->
   <source srcset="https://i.postimg.cc/x8xQ9pLK/image.png" media="(prefers-color-scheme: dark)" />
   <!-- Fallback -->
