@@ -1,0 +1,30 @@
+name: Generate Snake Animations
+
+on:
+  schedule: # runs daily at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch: # allow manual run
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake (Dark + Light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: UmerNoor-cmd
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+
+      - name: Push snake files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
