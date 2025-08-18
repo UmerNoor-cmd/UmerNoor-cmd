@@ -1,65 +1,79 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=4a9e8e&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+SOFTWARE+ENGINEER;%3E%3E%3E+BREAKING+PROBLEMS;%3E%3E%3E+BEFORE+THEY+BREAK+ME;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" alt="Retro Space Typing Effect" />
 </h2>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=UmerNoor-cmd&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+
+<!-- Streak Stats -->
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=UmerNoor-cmd&mode=daily&theme=default&hide_border=true&border_radius=10" media="(prefers-color-scheme: light)" />
+  <source srcset="https://streak-stats.demolab.com?user=UmerNoor-cmd&mode=daily&theme=gotham&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com?user=UmerNoor-cmd&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="150" alt="streak graph" />
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+</picture>
+
 </div>
 
 ###
 
-<img align="right" height="200" src="https://i.postimg.cc/x8xQ9pLK/image.png"  />
+<img align="right" height="200" src="https://i.postimg.cc/x8xQ9pLK/image.png" />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.instagram.com/umer1300" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="30" alt="instagram logo" />
   </a>
   <a href="https://www.youtube.com/@XONDO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="30" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="30" alt="youtube logo" />
   </a>
   <a href="https://discord.com/users/395988209135386626" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="30" alt="discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/umer-noor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo" />
   </a>
-  <a href="umernoor6660@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="30" alt="gmail logo"  />
+  <a href="mailto:umernoor6660@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="30" alt="gmail logo" />
   </a>
   <a href="https://x.com/umer_1300" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="30" alt="twitter logo" />
   </a>
 </div>
 
@@ -71,36 +85,35 @@
 
 ###
 
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerNoor-cmd&theme=redical&area=true&hide_border=true&hide_title=false&radius=10000&bg_color=14272c&color=FCFCFC&line=00D4FF&point=6262BD&area_color=00FF6A" height="1000" alt="activity-graph graph"  />
-</div>
+<!-- Activity Graph -->
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=UmerNoor-cmd&theme=github-light&area=true&hide_border=true&hide_title=false&radius=10000&bg_color=ffffff&color=000000&line=0066ff&point=333333&area_color=00d26a" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=UmerNoor-cmd&theme=redical&area=true&hide_border=true&hide_title=false&radius=10000&bg_color=14272c&color=FCFCFC&line=00D4FF&point=6262BD&area_color=00FF6A" media="(prefers-color-scheme: dark)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerNoor-cmd&theme=redical&area=true&hide_border=true&hide_title=false&radius=10000&bg_color=14272c&color=FCFCFC&line=00D4FF&point=6262BD&area_color=00FF6A" height="400" alt="activity graph" />
+</picture>
 
 ###
-
-
 
 <table align="center" border="1" cellspacing="0" cellpadding="0" bgcolor="#0c1014" bordercolor="#0c1014">
   <tr>
-    <td align="center" valign="middle" width="220" bgcolor="#0c1014" bordercolor="#0c1014">
+    <td align="center" valign="middle" width="220">
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&cover_image=true&theme=apple&show_offline=false&background_color=527698&interchange=true&mode=dark" alt="Spotify Now Playing" width="200" />
+        <picture>
+          <!-- Light mode -->
+          <source srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=light" media="(prefers-color-scheme: light)" />
+          <!-- Dark mode -->
+          <source srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark" media="(prefers-color-scheme: dark)" />
+          <!-- Fallback -->
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=co0usvd1ek8bt90cs5vc1uiy6&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark" alt="Spotify Now Playing" width="200" />
+        </picture>
       </a>
     </td>
-    <td align="center" valign="middle" bgcolor="#0c1014" bordercolor="#0c1014">
-      <img src="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=discord&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+    <td align="center" valign="middle">
+      <picture>
+        <source srcset="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=flat&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true" media="(prefers-color-scheme: light)" />
+        <source srcset="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=discord&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-profile-trophy.vercel.app?username=UmerNoor-cmd&theme=discord&column=4&row=1&margin-w=50&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+      </picture>
     </td>
   </tr>
 </table>
-
-
-
-
-
-###
-###
-
-
-
-
-###
