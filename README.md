@@ -28,9 +28,6 @@
   <a href="https://www.instagram.com/umer1300" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="30" alt="instagram logo" />
   </a>
-  <a href="https://www.youtube.com/@XONDO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="30" alt="youtube logo" />
-  </a>
   <a href="https://discord.com/users/395988209135386626" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="30" alt="discord logo" />
   </a>
@@ -61,7 +58,7 @@
       <picture>
         <source srcset="https://i.postimg.cc/Wbsb1MLH/image-2025-08-19-023628597-1.png" media="(prefers-color-scheme: light)" />
         <source srcset="https://i.postimg.cc/x8xQ9pLK/image.png" media="(prefers-color-scheme: dark)" />
-        <img height="200" src="https://i.postimg.cc/x8xQ9pLK/image.png" alt="Profile Image" />
+        <img height="160" src="https://i.postimg.cc/x8xQ9pLK/image.png" alt="Profile Image" />
       </picture>
     </td>
   </tr>
