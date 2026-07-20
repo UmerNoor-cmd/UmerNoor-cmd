@@ -14,12 +14,6 @@
   <img src="https://streak-stats.demolab.com?user=UmerNoor-cmd&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="150" alt="streak graph" />
 </picture>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=true" media="(prefers-color-scheme: light)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmerNoor-cmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</picture>
-
 </div>
 
 <br clear="both">
