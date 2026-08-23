@@ -1,8 +1,8 @@
 <h2 align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=f05237&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+PROBLEMS;%3E%3E%3E+BEFORE+THEY+BREAK+ME;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" media="(prefers-color-scheme: light)" />
-    <source srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=4a9e8e&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+PROBLEMS;%3E%3E%3E+BEFORE+THEY+BREAK+ME;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" media="(prefers-color-scheme: dark)" />
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=4a9e8e&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+PROBLEMS;%3E%3E%3E+BEFORE+THEY+BREAK+ME;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" alt="Retro Space Typing Effect" />
+    <source srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=f05237&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+MYSELF;%3E%3E%3E+BEFORE+I+MAKE+A+PROBLEM;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" media="(prefers-color-scheme: light)" />
+    <source srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=4a9e8e&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+MYSELF;%3E%3E%3E+BEFORE+I+MAKE+A+PROBLEM;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" media="(prefers-color-scheme: dark)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=4a9e8e&center=true&vCenter=true&width=900&height=140&lines=%3E%3E%3E+UMER+NOOR;%3E%3E%3E+BREAKING+MYSELF;%3E%3E%3E+BEFORE+I+MAKE+A+PROBLEM;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%9A%80" alt="Retro Space Typing Effect" />
   </picture>
 </h2>
 
